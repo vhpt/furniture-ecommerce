@@ -1,0 +1,46 @@
+.stars{
+    display: inline-block;
+    margin-left: 142px;
+}
+
+.productRating{
+    display: flex;
+}
+
+.textRating{
+    margin-top: 5px;
+}
+
+.stars span i{
+    color: coral;
+}
+
+.numberRating{
+    color: coral;
+}
+
+.activeTab{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.numberRating{
+    color: coral;
+}
+
+ul li {
+    list-style-type: none;
+}
+
+.starsGroup {
+    display: flex;
+}
+
+.star-item {
+    margin-right: 5px;
+}
+
+.mt-3 .mb-3 .star-item span,
+.mt-3 .mb-3 .star-item i.bi-star-fill {
+    color: coral;
+}

@@ -1,0 +1,12 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.motion{
+    transition: transform 0.3s ease;
+}
+
+.motion:hover{
+    transform: scale(1.05);
+}
